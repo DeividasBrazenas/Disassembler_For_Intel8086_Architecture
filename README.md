@@ -10,3 +10,7 @@ Author's LinkedIn profile: https://www.linkedin.com/in/deividas-brazenas/
 Written in Lithuanian language
 
 Feel free to ask questions!
+
+Instructions:
+1. Set command line parameters: dasm data.txt rez.txt
+2. Run and enjoy!
